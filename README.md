@@ -18,8 +18,6 @@
 - 🎓 I graduated from **TECSUP** in technology.  
 - 🌱 I like to use software as a **tool to solve problems**.  
 - 📖 I enjoy **always learning new things** in tech.  
-- 🔐 I am now studying **Cybersecurity** and **Data Science**.  
-- 🌐 You can visit my **website** to know more about me.  
 
 ---
 
