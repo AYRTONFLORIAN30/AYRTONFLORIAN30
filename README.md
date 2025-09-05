@@ -20,7 +20,6 @@
 - 🔐 I am now studying **Cybersecurity** and **Data Science**.  
 - 🌐 You can visit my **website** to know more about me.  
 
-
 ---
 
 ## Tech Stack
@@ -39,7 +38,16 @@
 
 ## Most Used Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,cs,swift&perline=6" height="48" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,androidstudio,angular,dart,py,mongodb,mysql,mssql,ts,linux,figma,docker,redhat&perline=9" height="42" />
+</p>
+
+---
+
+## Tech Highlights
+> Main technologies I use most often
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,py,spring,js&perline=6" height="48" />
 </p>
 
 ---
@@ -70,8 +78,6 @@
 <details>
 <summary>ASCII corner</summary>
 
-
-
     _____________
    /___________/|        _
   /___________/ |       | |
@@ -83,16 +89,3 @@
 |  |____|  |  /
 |__________| /
 (__)    (__)/   <- hook
-
-
-
-
-</details>
-
-<div align="center">
-
-_Thanks!_
-
-</div>
-
-
