@@ -13,12 +13,13 @@
 ## About me
 <img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/ayumuk/illustrations/main/coder-3.png"/>
 
-- 🏗️ I work in **transport & heavy-lift** (telescopic cranes, HIAB truck cranes, semitrailers).
-- 🧭 **Operations & Commercial Coordinator** at _Transportes Sánchez Grúas SAC_.
-- 🛠️ I like using software as a **solution to real problems** (React, automations, SEO básico).
-- 📦 Always **improving processes**: 5S, inventarios, homologaciones, documentación.
-- 📚 Currently learning **responsive UI**, **Git/GitHub workflows** y un poco de **DevOps**.
-- 🌐 You can visit our company site (en construcción) o escribirme por WhatsApp.
+- 💻 I am a **Software Designer and Developer** focused on practical solutions.  
+- 🎓 I graduated from **TECSUP** in technology.  
+- 🌱 I like to use software as a **tool to solve problems**.  
+- 📖 I enjoy **always learning new things** in tech.  
+- 🔐 I am now studying **Cybersecurity** and **Data Science**.  
+- 🌐 You can visit my **website** to know more about me.  
+
 
 ---
 
