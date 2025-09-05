@@ -75,7 +75,5 @@
 
 ---
 
-<details>
-<summary>ASCII corner</summary>
 
 
