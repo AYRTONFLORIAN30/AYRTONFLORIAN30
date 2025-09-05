@@ -11,7 +11,8 @@
 ---
 
 ## About me
-<img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/ayumuk/illustrations/main/coder-3.png"/>
+<img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me.gif"/>
+
 
 - 💻 I am a **Software Designer and Developer** focused on practical solutions.  
 - 🎓 I graduated from **TECSUP** in technology.  
