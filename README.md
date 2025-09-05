@@ -58,8 +58,8 @@
 ---
 
 ## Contact
-- 📫 **Email:** _alvaro.palomino@tgruasanchez.com_
-- ☎️ **WhatsApp:** +51 993 133 033
+- 📫 **Email:** ayrton.florian@tecsup.edu.pe_
+- ☎️ **WhatsApp:** +51 991 870 790
 
 ---
 
