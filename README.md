@@ -24,26 +24,29 @@
 
 ## Tech Stack
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=fff" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=fff" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws" />
 </p>
 
 ---
 
-## GitHub Stats
+## Most Used Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,cs,swift&perline=6" height="48" />
+</p>
 
+---
+
+## GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AYRTONFLORIAN30&show_icons=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYRTONFLORIAN30&layout=compact" />
-</a>
-
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
   <img height="170" src="https://streak-stats.demolab.com?user=AYRTONFLORIAN30" />
 </a>
@@ -58,14 +61,13 @@
 ---
 
 ## Contact
-- 📫 **Email:** ayrton.florian@tecsup.edu.pe_
+- 📫 **Email:** ayrton.florian@tecsup.edu.pe
 - ☎️ **WhatsApp:** +51 991 870 790
 
 ---
 
 <details>
 <summary>ASCII corner</summary>
-
 
 
 
@@ -91,3 +93,5 @@
 _Thanks!_
 
 </div>
+
+
