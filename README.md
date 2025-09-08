@@ -11,7 +11,7 @@
 ---
 
 ## About me
-<img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<img align="center" alt="coding" width="320" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 
 
