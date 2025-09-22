@@ -16,7 +16,6 @@
 
 
 - 💻 I'm a **Software Designer and Developer** focused on practical solutions.  
-- 🎓 I graduated from **TECSUP** with a degree in software design and development.  
 - 🌱 I like to use software as a **tool to solve problems**.  
 - 📖 I enjoy **always learning new things** in tech.  
 
