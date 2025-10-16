@@ -3,7 +3,7 @@
 # Hi, I'm **Ayrton** 👋
 
 <p>
-  <em>If you can imagine it</em>
+  <em>If you can imagine it, you can program it.</em>
 </p>
 
 </div>
