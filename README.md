@@ -64,7 +64,7 @@
 ---
 
 ## Contact
-- 📫 **Email:** ayrton.florian@tecsup.edu.pe
+- 📫 **Email:** ayrtonleao30@gmail.com
 - ☎️ **WhatsApp:** +51 991 870 790
 
 ---
