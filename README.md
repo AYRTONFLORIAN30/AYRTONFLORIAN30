@@ -56,9 +56,8 @@
     <img height="180" src="https://streak-stats.demolab.com?user=AYRTONFLORIAN30" />
   </a>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYRTONFLORIAN30&theme=github-compact" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=AYRTONFLORIAN30&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
