@@ -51,13 +51,14 @@
 ---
 
 ## GitHub Stats
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayrtonflorian30&show_icons=true&count_private=true&cache_seconds=1800" />
-  </a>
+<p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img height="170" src="https://streak-stats.demolab.com?user=AYRTONFLORIAN30" />
+    <img height="180" src="https://streak-stats.demolab.com?user=AYRTONFLORIAN30" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYRTONFLORIAN30&theme=github-compact" width="100%" />
 </p>
 
 ---
