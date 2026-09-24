@@ -63,13 +63,6 @@
 
 ---
 
-## Featured
-- 🚚 **Corporate website** (React): secciones de servicios, blog, contacto, libro de reclamaciones.  
-  Repo: [`PAGINA-WEB---SANCHEZ`](https://github.com/AYRTONFLORIAN30/PAGINA-WEB---SANCHEZ)
-- 🧩 **UI components**: navbar responsive, cards, modales de confirmación.
-
----
-
 ## Contact
 - 📫 **Email:** ayrton.florian@tecsup.edu.pe
 - ☎️ **WhatsApp:** +51 991 870 790
