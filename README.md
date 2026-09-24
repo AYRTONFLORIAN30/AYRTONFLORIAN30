@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" />
   <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=fff" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws" />
 </p>
