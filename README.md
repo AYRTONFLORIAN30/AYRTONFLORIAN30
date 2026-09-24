@@ -13,8 +13,6 @@
 ## About me
 <img align="center" alt="coding" width="320" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-
-
 - 💻 I'm a **Software Designer and Developer** focused on practical solutions.  
 - 🌱 I like to use software as a **tool to solve problems**.  
 - 📖 I enjoy **always learning new things** in tech.  
@@ -37,7 +35,7 @@
 
 ## Most Used Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,androidstudio,angular,dart,py,mongodb,mysql,mssql,ts,linux,figma,docker,redhat&perline=9" height="42" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,androidstudio,angular,dart,py,mongodb,mysql,ts,linux,figma,docker,redhat&perline=9" height="42" />
 </p>
 
 ---
@@ -73,6 +71,3 @@
 - ☎️ **WhatsApp:** +51 991 870 790
 
 ---
-
-
-
