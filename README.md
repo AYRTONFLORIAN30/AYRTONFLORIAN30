@@ -56,8 +56,9 @@
     <img height="180" src="https://streak-stats.demolab.com?user=AYRTONFLORIAN30" />
   </a>
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AYRTONFLORIAN30&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=22C55E&center=true&vCenter=true&width=460&lines=%3E+Software+Designer+%26+Developer;%3E+Building+practical+solutions;%3E+Always+learning+new+tech" />
 </p>
 
 ---
