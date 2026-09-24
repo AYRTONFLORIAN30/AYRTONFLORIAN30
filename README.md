@@ -36,7 +36,7 @@
 
 ## Most Used Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,androidstudio,angular,dart,py,mongodb,mysql,ts,linux,figma,docker,redhat&perline=9" height="42" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,androidstudio,angular,dart,py,mongodb,mysql,ts,linux,figma,docker,redhat,git&perline=9" height="42" />
 </p>
 
 ---
